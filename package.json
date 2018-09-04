@@ -1,6 +1,6 @@
 {
-  "name": "react-native-shape-image-view",
-  "version": "2.0.0",
+  "name": "reactnativeshapeimageview-local",
+  "version": "3.0.0",
   "description": "Native Custom Shape Images and Views for React-Native",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,8 @@
   },
   "author": "Shahen Hovhannisyan <shahen.hovhannisyan.94@gmail.com>",
   "dependencies": {
-    "lodash": "latest"
+    "lodash": "latest",
+    "prop-types": "^15.6.2"
   },
   "peerDependencies": {
     "react-native": ">=0.29"
